@@ -335,6 +335,78 @@ user_question = "Who is the CEO of Google?"
 print('Question : '+ user_question)
 question_answer(user_question)
 
+# user_question = "where did the large earthquake struck?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'how big the magnitude of earthquake?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'what time tsunami warning was issued in Palu?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'How much money did Google donated to the victims?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'How many Hercules send from Turkish Government?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'Who is the CEO of Google?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'What did Sundar Pichai do?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'when did the government stop the search and rescue operation?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'what did the Governor do to commemorate the victims?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'how tall were the tsunami waves?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "who is Longki Djanggola?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = 'How many people dead by tsunami?'
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "Who is the Ministry of Research, Technology, and Higher Education?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "How much money did WhatsApp donated to the victims?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "How many sleeping bags send from Turkish Government?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "How many tents send from Turkish Government?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "What did the Turkish Government do?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
+# user_question = "What did the Spanish Government do?"
+# print('Question : '+ user_question)
+# question_answer(user_question)
+
 
 user_question = input("Question : ")
 question_answer(user_question)
