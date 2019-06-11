@@ -59,7 +59,7 @@ def find_kandidat_jawaban(question):
     
     return kandidat_jawaban
 
-
+# this function bellow code by @allysas
 def getPOSTagging(sentence):
     listOfSentence_tokens = []
     listOfSentence_tagged = []  
@@ -70,6 +70,7 @@ def getPOSTagging(sentence):
 
     return(listOfSentence_tokens, listOfSentence_tagged)
 
+# this function bellow code by @allysas
 def getIOBNER(sentence):
     listOfSentence_NER = []
     document = nlp(sentence)
