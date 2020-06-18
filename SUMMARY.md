@@ -2,7 +2,8 @@
 
 * [Yurdha Fadhila's Portofolio](README.md)
 
-## Journals
+## Projects <a id="journals"></a>
 
-* [Untitled](journals/untitled.md)
+* [2020](journals/untitled/README.md)
+  * [Untitled](journals/untitled/untitled.md)
 
